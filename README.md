@@ -1,42 +1,31 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Sulthan Mohaideen 👨‍💻 </h1>
 
-<!--
-**gottschn/gottschn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
 
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/sulthannk/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
+<a href="https://twitter.com/SulthanNK"><img alt="Twitter" src="https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK"></a>
+<a href="https://dev.to/sulthannk"><img alt="Dev Community" src="https://img.shields.io/badge/-SulthanNK-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sulthannk"></a>
+</p>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About
+-  **Working :**  Web Development :computer: | Cloud :cloud: 
+-  **Learning :** Full-Stack :zap: | Open-Source :fire:	
+-  **Hobbies :** Books :books: | Music :headphones:
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+-  **Pronouns :** He/Him/His :innocent:
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
-</em></p>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SulthanNK" alt="SulthanNK" /> </p>
 
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
-};
-```
-</br></br>
-<h2>💻 Some stats 💻</h2>
+### 📊 Profile stats
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![SulthanNK's github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/SulthanNK/github-readme-stats)
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+⭐️ From [SulthanNK](http://www.github.com/SulthanNK)
