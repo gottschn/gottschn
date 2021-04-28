@@ -3,14 +3,13 @@
 <h3 align="center"> Frontend development </h3> <br>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/sulthannk/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
+<a href="www.linkedin.com/in/stbn-schn"><img alt="LinkedIn" src="fab fa-linkedin">
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :**  Web Development :computer: | Cloud :cloud: 
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Books :books: | Music :headphones:
+-  **Learning :** Full-Stack :zap:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
 -  **Pronouns :** He/Him/His :innocent:
