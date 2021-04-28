@@ -3,7 +3,7 @@
 <h3 align="center"> A passionate front-end developer from Argentina</h3> <br>
 
 <p align="center"> 
-<a href="www.linkedin.com/in/stbn-schn"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
+<a href="www.linkedin.com/in/stbn-schn"><img alt="Linkedin profile" title="Linkedin" src="www.linkedin.com/in/stbn-schn" width="100" height="30" /></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
