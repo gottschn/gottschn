@@ -14,7 +14,7 @@
 -  **Pronouns :** He/Him/His :innocent:
 
 <h3>🛠 Tech Stack</h3>
-- 💻 &nbsp;  Javascript | C# | HTML | CSS | Bootstrap | SASS | JQuery | PHP Node.js | ReactJS &nbsp; MySQL | MongoDB (Learning) &nbsp; Git |  Adobe XD |SCRUM | Photoshop
+- 💻 &nbsp;   HTML | CSS | Javascript |  Bootstrap | SASS | JQuery | PHP | C# | Node.js | ReactJS | MySQL | MongoDB (Learning) | Git |  Adobe XD |SCRUM | Photoshop
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
