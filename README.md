@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Gott Scheuschner 👨‍💻 </h1>
 
-<h3 align="center"> Frontend development </h3> <br>
+<h3 align="center"> Front-end development </h3> <br>
 
 <p align="center"> 
 <a href="www.linkedin.com/in/stbn-schn"><img alt="LinkedIn" >
