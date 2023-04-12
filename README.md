@@ -9,12 +9,12 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
--🌱**Learning :** JavaScript, Node.js and React.js
+-🌱**Learning :** React.js and C#
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Pronouns :** He/Him/His :innocent:
 
 <h3>🛠 Tech Stack</h3>
-- 💻 &nbsp;   HTML | CSS | Javascript |  Bootstrap | SASS | JQuery | PHP | C# | Node.js | ReactJS | MySQL | MongoDB (Learning) | Git |  Adobe XD |SCRUM | Photoshop
+- 💻 &nbsp;   HTML | CSS | Javascript | Bootstrap | SASS | JQuery | PHP | C# | React.js | ReactJS | MySQL |  Git |  Adobe XD |SCRUM | Photoshop
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
